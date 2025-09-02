@@ -4,6 +4,10 @@
 Learn the fundamentals and processes in developing a web program
 Create a dynamic website with frontend and backend programming approaches
 
+## Textbook for Reference
+Node.js 교과서기본기에 충실한 Node.js 18 입문서 
+- 조현영
+
 ## Lessons
 1. HTML, CSS
 2. JavaScript
